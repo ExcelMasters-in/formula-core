@@ -1,0 +1,21 @@
+{
+  "name": "@excelmasters/formula-core",
+  "version": "0.1.0",
+  "description": "High-performance AST formula parser and spreadsheet calculation engine",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "bun test"
+  },
+  "keywords": [
+    "excel",
+    "spreadsheet",
+    "ast",
+    "formula",
+    "parser"
+  ],
+  "author": "Daksh Rawat (Kukzze)",
+  "license": "MIT"
+}
